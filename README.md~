@@ -1,3 +1,0 @@
-# BlackJack
-
-To run the application use: mvn clean install tomcat7:run and access the URL http://localhost:8080/blackjack/game
